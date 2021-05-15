@@ -1,4 +1,7 @@
 {
+  "Data": {
+    "data": "User[]"
+  },
   "User": {
     "id": "int",
     "avatar": "string",

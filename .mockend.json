@@ -12,6 +12,6 @@
   },
   "Comment": {
     "body": "string",
-    "post": "User"
+    "users": "User[]"
   }
 }

@@ -9,5 +9,9 @@
     "email": "string",
     "address": "string",
     "lastname": "string"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "User"
   }
 }

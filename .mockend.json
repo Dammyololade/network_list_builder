@@ -1,0 +1,10 @@
+{
+  "User": {
+    "id": "int",
+    "avatar": "string",
+    "firstName": "string",
+    "email": "string",
+    "address": "string",
+    "lastname": "string"
+  }
+}
